@@ -4,7 +4,7 @@ a Software Developer based in Vancouver, Canada
 
 Contact me to get in touch now!
 
-<a href="www.linkedin.com/in/seanyang20">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=<LinkedIn>&logoColor=Blue)</a>
+<a href="https://www.linkedin.com/in/seanyang20">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=<LinkedIn>&logoColor=Blue)</a>
 
 Email • LinkedIn 
 

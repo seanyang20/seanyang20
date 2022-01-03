@@ -4,11 +4,18 @@ a Software Developer based in Vancouver, Canada
 
 Contact me to get in touch now!
 
-<a href="https://www.linkedin.com/in/seanyang20">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=<LinkedIn>&logoColor=Blue)</a>
+<a href="https://www.linkedin.com/in/seanyang20">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=<LinkedIn>&logoColor=blue)</a>
 
-Email • LinkedIn 
+Email: seanyixuan@gmail.com 
 
 📕 My Latest
+
+Capstone Project: SimpleTravel
+  
+
+
+
+https://user-images.githubusercontent.com/91449410/147920985-81006ec6-a99e-47e0-acbf-eb6bfaed4e16.mp4
 
 
 

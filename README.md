@@ -1,10 +1,10 @@
 ### Hi! 👋
 I'm Sean Yang
-a Web Developer based in Vancouver, Canada
+a Software Developer based in Vancouver, Canada
 
 Contact me to get in touch now!
 
-![<LinkedIn>](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=<LinkedIn>&logoColor=Blue)
+![<www.linkedin.com/in/seanyang20>](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=<LinkedIn>&logoColor=Blue)
 Email • LinkedIn 
 
 📕 My Latest

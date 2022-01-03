@@ -4,7 +4,7 @@ a Web Developer based in Vancouver, Canada
 
 Contact me to get in touch now!
 
-![<LinkedIn>](https://img.shields.io/badge/<LinkedInt>-<Blue>?style=for-the-badge&logo=<LinkedIn>&logoColor=<Blue>)
+![<LinkedIn>](https://img.shields.io/badge/<LinkedIn>-<Blue>?style=for-the-badge&logo=<LinkedIn>&logoColor=<Blue>)
 Email • LinkedIn 
 
 📕 My Latest

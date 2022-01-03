@@ -1,5 +1,15 @@
-### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+### Hi! 👋
+I'm Sean Yang
+a Web Developer based in Vancouver, Canada
+
+Contact me to get in touch now!
+
+Email • LinkedIn 
+
+📕 My Latest
+
+
+
 <!--
 **seanyang20/seanyang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

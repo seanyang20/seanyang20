@@ -2,7 +2,7 @@
 I'm Sean Yang
 a Software Developer based in Vancouver, Canada
 
-Contact me to get in touch now!
+Feel free to connect with me!
 
 <a href="https://www.linkedin.com/in/seanyang20">![<LinkedIn>](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=<LinkedIn>&logoColor=blue)</a>
 

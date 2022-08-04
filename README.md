@@ -15,7 +15,7 @@ Capstone Project: SimpleTravel
 
 
 
-https://user-images.githubusercontent.com/91449410/147920985-81006ec6-a99e-47e0-acbf-eb6bfaed4e16.mp4
+<!-- https://user-images.githubusercontent.com/91449410/147920985-81006ec6-a99e-47e0-acbf-eb6bfaed4e16.mp4 -->
 
 
 
